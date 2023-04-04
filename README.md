@@ -10,7 +10,7 @@ A continuación se describe el paso a paso en la creación de la base de datos y
 
 |Orden | Descripción del contenido|
 |:----------|:------------|
-|Informe | Se podrá encontrar el paso a paso de la creación de la base de datos realizada en el proyecto.|
+|[Informe](https://github.com/CarmenPujato/coderhouse/tree/main/Informe) | Se podrá encontrar el paso a paso de la creación de la base de datos realizada en el proyecto.|
 | [Creación del esquema y tablas](https://github.com/CarmenPujato/coderhouse/tree/main/Creaci%C3%B3n%20del%20esquema%20y%20tablas)| Contiene el script .sql con la creación del esquema y la creación de las tablas.|
 | Inserción de datos| Se podrá encontrar el script .SQL con la inserción de los datos. En las tablas: recepcionista, dirección clientes y clientes se produjo la inserción de los datos mediante importación de archivos .CSV.|
 |Creación de vistas| Se podrá encontrar el script .SQL de las vistas creadas en el proyecto.|
