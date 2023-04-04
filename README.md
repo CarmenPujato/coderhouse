@@ -20,3 +20,4 @@ A continuación se describe el paso a paso en la creación de la base de datos y
 |[Script DCL](https://github.com/CarmenPujato/coderhouse/tree/main/Script%20DCL)| Esta carpeta contiene el script .SQL con la creación de dos usuarios.|
 |[Script TCL](https://github.com/CarmenPujato/coderhouse/tree/main/Script%20TCL)| Esta carpeta contiene el script .SQL con el TCL aplicado a las tablas recepcionista y habitaciones.|
 |[Backup](https://github.com/CarmenPujato/coderhouse/tree/main/Backup)|Esta carpeta tiene una copia de seguridad de todos los datos de la base de datos del proyecto Hotel Royal.|
+
